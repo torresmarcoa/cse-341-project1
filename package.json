@@ -1,0 +1,23 @@
+{
+  "name": "cse-341-project1",
+  "version": "1.0.0",
+  "description": "CSE First Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torresmarcoa/cse-341-project1.git"
+  },
+  "author": "Marco Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/torresmarcoa/cse-341-project1/issues"
+  },
+  "homepage": "https://github.com/torresmarcoa/cse-341-project1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

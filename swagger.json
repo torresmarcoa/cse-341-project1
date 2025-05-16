@@ -165,7 +165,7 @@
         "tags": [
           "Contacts"
         ],
-        "description": "Delete a contact to the database",
+        "description": "Delete a contact from the database",
         "parameters": [
           {
             "name": "id",

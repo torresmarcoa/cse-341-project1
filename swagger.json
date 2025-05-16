@@ -5,10 +5,9 @@
     "description": "This is an API to store, update, and delete contacts",
     "version": "1.0.0"
   },
-  "host": "localhost:3000",
+  "host": "contacts-coz5.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
